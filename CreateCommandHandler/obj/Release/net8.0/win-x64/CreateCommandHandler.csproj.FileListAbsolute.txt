@@ -1,0 +1,4 @@
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\obj\Release\net8.0\win-x64\CreateCommandHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\obj\Release\net8.0\win-x64\CreateCommandHandler.AssemblyInfoInputs.cache
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\obj\Release\net8.0\win-x64\CreateCommandHandler.AssemblyInfo.cs
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\obj\Release\net8.0\win-x64\CreateCommandHandler.csproj.CoreCompileInputs.cache

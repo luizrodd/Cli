@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>CreateCommandHandler</id>
+    <version>1.0.2</version>
+    <authors>CreateCommandHandler</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" />
+  </metadata>
+  <files>
+    <file src="C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\obj\DotnetToolSettings.xml" target="tools\net8.0\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\bin\Release\net8.0\publish\CreateCommandHandler.dll" target="tools\net8.0\any\CreateCommandHandler.dll" />
+    <file src="C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\bin\Release\net8.0\publish\CreateCommandHandler.deps.json" target="tools\net8.0\any\CreateCommandHandler.deps.json" />
+    <file src="C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\bin\Release\net8.0\publish\CreateCommandHandler.runtimeconfig.json" target="tools\net8.0\any\CreateCommandHandler.runtimeconfig.json" />
+    <file src="C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\bin\Release\net8.0\publish\CreateCommandHandler.pdb" target="tools\net8.0\any\CreateCommandHandler.pdb" />
+    <file src="C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\bin\Release\net8.0\publish\Spectre.Console.dll" target="tools\net8.0\any\Spectre.Console.dll" />
+  </files>
+</package>

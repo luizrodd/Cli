@@ -1,0 +1,17 @@
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\bin\Release\net8.0\CreateCommandHandler.exe
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\bin\Release\net8.0\CreateCommandHandler.deps.json
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\bin\Release\net8.0\CreateCommandHandler.runtimeconfig.json
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\bin\Release\net8.0\CreateCommandHandler.dll
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\bin\Release\net8.0\CreateCommandHandler.pdb
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\bin\Release\net8.0\Spectre.Console.dll
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\obj\Release\net8.0\CreateCommandHandler.csproj.AssemblyReference.cache
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\obj\Release\net8.0\CreateCommandHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\obj\Release\net8.0\CreateCommandHandler.AssemblyInfoInputs.cache
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\obj\Release\net8.0\CreateCommandHandler.AssemblyInfo.cs
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\obj\Release\net8.0\CreateCommandHandler.csproj.CoreCompileInputs.cache
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\obj\Release\net8.0\CreateCo.73A77011.Up2Date
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\obj\Release\net8.0\CreateCommandHandler.dll
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\obj\Release\net8.0\refint\CreateCommandHandler.dll
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\obj\Release\net8.0\CreateCommandHandler.pdb
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\obj\Release\net8.0\CreateCommandHandler.genruntimeconfig.cache
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\obj\Release\net8.0\ref\CreateCommandHandler.dll

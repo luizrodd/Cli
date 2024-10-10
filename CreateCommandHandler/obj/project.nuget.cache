@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wAe9zkrJJfS1Q4JXgwbW0PQ310MSGTAkmdfZCrYG1gwxa31ZcB0bFFLdihI87wjuKpmz1v+7YHvVM5DSAE3v6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luiz.rodrigues\\source\\repos\\CreateCommandHandler\\CreateCommandHandler\\CreateCommandHandler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luiz.rodrigues\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}

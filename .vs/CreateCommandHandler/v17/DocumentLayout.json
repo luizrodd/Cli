@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luiz.rodrigues\\source\\repos\\CreateCommandHandler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98450EC3-1D89-4048-A8A6-05267757DD69}|CreateCommandHandler\\CreateCommandHandler.csproj|c:\\users\\luiz.rodrigues\\source\\repos\\createcommandhandler\\createcommandhandler\\createusuariocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98450EC3-1D89-4048-A8A6-05267757DD69}|CreateCommandHandler\\CreateCommandHandler.csproj|solutionrelative:createcommandhandler\\createusuariocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98450EC3-1D89-4048-A8A6-05267757DD69}|CreateCommandHandler\\CreateCommandHandler.csproj|c:\\users\\luiz.rodrigues\\source\\repos\\createcommandhandler\\createcommandhandler\\createusuariocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98450EC3-1D89-4048-A8A6-05267757DD69}|CreateCommandHandler\\CreateCommandHandler.csproj|solutionrelative:createcommandhandler\\createusuariocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98450EC3-1D89-4048-A8A6-05267757DD69}|CreateCommandHandler\\CreateCommandHandler.csproj|c:\\users\\luiz.rodrigues\\source\\repos\\createcommandhandler\\createcommandhandler\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98450EC3-1D89-4048-A8A6-05267757DD69}|CreateCommandHandler\\CreateCommandHandler.csproj|solutionrelative:createcommandhandler\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98450EC3-1D89-4048-A8A6-05267757DD69}|CreateCommandHandler\\CreateCommandHandler.csproj|c:\\users\\luiz.rodrigues\\source\\repos\\createcommandhandler\\createcommandhandler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98450EC3-1D89-4048-A8A6-05267757DD69}|CreateCommandHandler\\CreateCommandHandler.csproj|solutionrelative:createcommandhandler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98450EC3-1D89-4048-A8A6-05267757DD69}|CreateCommandHandler\\CreateCommandHandler.csproj|c:\\users\\luiz.rodrigues\\source\\repos\\createcommandhandler\\createcommandhandler\\createcommandhandler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98450EC3-1D89-4048-A8A6-05267757DD69}|CreateCommandHandler\\CreateCommandHandler.csproj|solutionrelative:createcommandhandler\\createcommandhandler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 80,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateUsuarioCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\luiz.rodrigues\\source\\repos\\CreateCommandHandler\\CreateCommandHandler\\CreateUsuarioCommandHandler.cs",
+              "RelativeDocumentMoniker": "CreateCommandHandler\\CreateUsuarioCommandHandler.cs",
+              "ToolTip": "C:\\Users\\luiz.rodrigues\\source\\repos\\CreateCommandHandler\\CreateCommandHandler\\CreateUsuarioCommandHandler.cs",
+              "RelativeToolTip": "CreateCommandHandler\\CreateUsuarioCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:02:45.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateUsuarioCommand.cs",
+              "DocumentMoniker": "C:\\Users\\luiz.rodrigues\\source\\repos\\CreateCommandHandler\\CreateCommandHandler\\CreateUsuarioCommand.cs",
+              "RelativeDocumentMoniker": "CreateCommandHandler\\CreateUsuarioCommand.cs",
+              "ToolTip": "C:\\Users\\luiz.rodrigues\\source\\repos\\CreateCommandHandler\\CreateCommandHandler\\CreateUsuarioCommand.cs",
+              "RelativeToolTip": "CreateCommandHandler\\CreateUsuarioCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:02:44.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\luiz.rodrigues\\source\\repos\\CreateCommandHandler\\CreateCommandHandler\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "CreateCommandHandler\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\luiz.rodrigues\\source\\repos\\CreateCommandHandler\\CreateCommandHandler\\UsuariosController.cs",
+              "RelativeToolTip": "CreateCommandHandler\\UsuariosController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwEEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:02:00.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateCommandHandler.csproj",
+              "DocumentMoniker": "C:\\Users\\luiz.rodrigues\\source\\repos\\CreateCommandHandler\\CreateCommandHandler\\CreateCommandHandler.csproj",
+              "RelativeDocumentMoniker": "CreateCommandHandler\\CreateCommandHandler.csproj",
+              "ToolTip": "C:\\Users\\luiz.rodrigues\\source\\repos\\CreateCommandHandler\\CreateCommandHandler\\CreateCommandHandler.csproj",
+              "RelativeToolTip": "CreateCommandHandler\\CreateCommandHandler.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T19:13:46.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luiz.rodrigues\\source\\repos\\CreateCommandHandler\\CreateCommandHandler\\Program.cs",
+              "RelativeDocumentMoniker": "CreateCommandHandler\\Program.cs",
+              "ToolTip": "C:\\Users\\luiz.rodrigues\\source\\repos\\CreateCommandHandler\\CreateCommandHandler\\Program.cs",
+              "RelativeToolTip": "CreateCommandHandler\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:40:16.892Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

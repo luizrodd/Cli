@@ -1,0 +1,6 @@
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\bin\Release\net8.0\publish\CreateCommandHandler.exe
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\bin\Release\net8.0\publish\CreateCommandHandler.dll
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\bin\Release\net8.0\publish\CreateCommandHandler.deps.json
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\bin\Release\net8.0\publish\CreateCommandHandler.runtimeconfig.json
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\bin\Release\net8.0\publish\CreateCommandHandler.pdb
+C:\Users\luiz.rodrigues\source\repos\CreateCommandHandler\CreateCommandHandler\bin\Release\net8.0\publish\Spectre.Console.dll
